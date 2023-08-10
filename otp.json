@@ -1,0 +1,14 @@
+[
+  {
+    "secret": "AAAAAAAAAAAAAAAA",
+    "label": "GitHub",
+    "digits": 6,
+    "type": "TOTP",
+    "algorithm": "SHA1",
+    "period": 30
+  },
+   {
+    "secret": "11111111111111111111111111111111",
+    "label": "Cloudflare"
+  }
+]
